@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Speaker Cleaner</string>
+    <string name="version_info">Версія 4</string>
+    <string name="developer">InfLps</string>
+
+    <string name="common_cancel">Скасувати</string>
+    <string name="common_dismiss">Закрити</string>
+    <string name="common_ok">Добре</string>
+    <string name="common_yes">Так</string>
+    <string name="common_stop">Зупинити</string>
+    <string name="common_reset">Скинути</string>
+
+    <string name="home_subtext">Звук приглушений? Наші високої інтенсивності звукові імпульси можуть виштовхнути застряглу воду та видалити пил із сітки динаміка.</string>
+    <string name="home_btn_start">ПОЧАТИ ОЧИЩЕННЯ</string>
+
+    <string name="cleaner_status_cleaning">Очищення триває...</string>
+    <string name="cleaner_completion_msg">Процес очищення завершено!</string>
+    <string name="cleaner_warning_volume">Для найкращого результату встановіть гучність на МАКСИМУМ.</string>
+    <string name="cleaner_warning_position">Покладіть телефон динаміком донизу на рівну поверхню.</string>
+
+    <string name="cleaner_mode_auto">Автоматично</string>
+    <string name="cleaner_mode_manual">Ручний</string>
+    <string name="cleaner_toggle_vibration">Вібрація</string>
+    <string name="cleaner_toggle_pulse">Імпульс</string>
+    <string name="cleaner_control_frequency">Частота (Гц)</string>
+
+    <string name="settings_opt_help">Про додаток</string>
+    <string name="settings_opt_volume">Гучність системи</string>
+    <string name="settings_opt_language">Змінити мову</string>
+    <string name="settings_curr_language">Українська</string>
+    <string name="settings_link_telegram_group">Повідомити про помилки (Telegram)</string>
+    <string name="settings_link_telegram_channel">Приєднатися до каналу Telegram</string>
+    <string name="settings_link_github">Переглянути вихідний код (GitHub)</string>
+
+    <string name="lang_select">Виберіть мову</string>
+    <string name="lang_en">English</string>
+    <string name="lang_ro">Română</string>
+    <string name="lang_ru">Русский</string>
+    <string name="lang_pt">Português</string>
+    <string name="lang_ptbr">Português (Brasil)</string>
+    <string name="lang_ind">Indonesia</string>
+    <string name="lang_hin">हिन्दी</string>
+    <string name="lang_tal">தமிழ்</string>
+    <string name="lang_uk">Українська</string>
+    <string name="lang_fr">Français</string>
+    <string name="lang_es">Español</string>
+    <string name="lang_tr">Türkçe</string>
+    <string name="lang_zh">中文</string>
+
+    <string name="help_title">Підготовчий посібник</string>
+    <string name="help_intro">Виконайте ці кроки, щоб забезпечити максимальну ефективність очищення:</string>
+    
+    <string name="help_sec_audio_title">1. Аудіопідключення</string>
+    <string name="help_sec_audio_p1">Від’єднайте всі навушники (дротові або Bluetooth). Звук має відтворюватися через вбудовані динаміки.</string>
+    <string name="help_sec_audio_p2">Закрийте інші додатки, які відтворюють музику або відео.</string>
+
+    <string name="help_sec_placement_title">2. Розміщення пристрою</string>
+    <string name="help_sec_placement_p1">Встановіть гучність на 100%. Низька гучність зменшує фізичну вібрацію, необхідну для переміщення частинок.</string>
+    <string name="help_sec_placement_p2">Покладіть телефон динаміком донизу. Сила тяжіння допомагає волозі виходити з сітки.</string>
+
+    <string name="help_sec_safety_title">3. Безпека та стабільність</string>
+    <string name="help_sec_safety_p1">Не використовуйте цю функцію під час телефонної розмови.</string>
+    <string name="help_sec_safety_p2">Уникайте руху або струшування телефону під час виконання процесу.</string>
+    <string name="help_duration_info">Загальна тривалість: 60 секунд</string>
+
+    <string name="mechanics_title">Як це працює</string>
+    <string name="mechanics_intro">Speaker Cleaner використовує спеціальні звукові алгоритми для фізичного відновлення якості звуку.</string>
+    
+    <string name="mechanics_water_title">Видалення рідини (Фаза 1)</string>
+    <string name="mechanics_water_desc">Використовує низькочастотні синусоїдальні хвилі (150–600 Гц). Ці частоти викликають велику \"екскурсію\" (рух) дифузора динаміка, фізично струшуючи краплі води з апаратної частини.</string>
+
+    <string name="mechanics_dust_title">Видалення пилу (Фаза 2)</string>
+    <string name="mechanics_dust_desc">Використовує швидкі прискорені \"Square-Clipped\" імпульси. Вони діють як відбійний молоток, створюючи поштовхи повітряного тиску для вивільнення сухого пилу та ворсу, що застрягли в порах динаміка.</string>
+    
+    <string name="mechanics_notice">Якщо звук і надалі приглушений, зачекайте 2 хвилини та повторіть процес.</string>
+
+    <string name="manual_help_title">Посібник з ручного режиму</string>
+    <string name="manual_help_intro">Використовуйте ручні налаштування, щоб націлити конкретні частоти або перевірити динаміки.</string>
+    <string name="manual_help_freq_title">Повзунок частоти</string>
+    <string name="manual_help_freq_desc">Регулює висоту тону від 100 Гц до 1000 Гц. Використовуйте нижчі частоти (150–200 Гц) для важких крапель води та вищі — для дрібного пилу.</string>
+    <string name="manual_help_pulse_title">Імпульсний режим</string>
+    <string name="manual_help_pulse_desc">Періодично перериває звук. Це швидке \"Увімк./Вимк.\" створює ударні хвилі повітряного тиску, які ефективніше виштовхують застряглі частинки, ніж безперервний звук.</string>
+    <string name="manual_help_vibe_title">Синхронізація вібрації</string>
+    <string name="manual_help_vibe_desc">Синхронізує вібромотор телефону з аудіоімпульсами для максимальної фізичної дії.</string>
+
+    <string name="attribution_music">Композиції \"Legendary Paganini Caprice House\" та \"Nightlife in Hamburg Synth Pop\" надані White_Records і взяті з pixabay.com.</string>
+
+</resources>

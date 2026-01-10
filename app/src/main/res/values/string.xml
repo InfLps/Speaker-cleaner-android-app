@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Speaker Cleaner</string>
+    <string name="version_info">Version 4</string>
+    <string name="developer">InfLps</string>
+
+    <string name="common_cancel">Cancel</string>
+    <string name="common_dismiss">Dismiss</string>
+    <string name="common_ok">Okay</string>
+    <string name="common_yes">Yes</string>
+    <string name="common_stop">Stop</string>
+    <string name="common_reset">Reset</string>
+
+    <string name="home_subtext">Muffled audio? Our high-intensity sonic pulses can eject trapped water and dislodge dust from your speaker mesh.</string>
+    <string name="home_btn_start">START CLEANING</string>
+
+    <string name="cleaner_status_cleaning">Cleaning in progress...</string>
+    <string name="cleaner_completion_msg">Cleaning process completed!</string>
+    <string name="cleaner_warning_volume">Set volume to MAXIMUM for best results.</string>
+    <string name="cleaner_warning_position">Place the phone facing down on a flat surface.</string>
+
+    <string name="cleaner_mode_auto">Auto</string>
+    <string name="cleaner_mode_manual">Manual</string>
+    <string name="cleaner_toggle_vibration">Vibration</string>
+    <string name="cleaner_toggle_pulse">Pulse</string>
+    <string name="cleaner_control_frequency">Frequency (Hz)</string>
+
+    <string name="settings_opt_help">About</string>
+    <string name="settings_opt_volume">System Volume</string>
+    <string name="settings_opt_language">Change Language</string>
+    <string name="settings_curr_language">English</string>
+    <string name="settings_link_telegram_group">Report bugs (Telegram)</string>
+    <string name="settings_link_telegram_channel">Join Telegram Channel</string>
+    <string name="settings_link_github">View Source (GitHub)</string>
+
+    <string name="lang_select">Select Language</string>
+    <string name="lang_en">English</string>
+    <string name="lang_ro">Română</string>
+    <string name="lang_ru">Русский</string>
+    <string name="lang_pt">Português</string>
+    <string name="lang_ptbr">Português (Brasil)</string>
+    <string name="lang_ind">Indonesia</string>
+    <string name="lang_hin">हिन्दी</string>
+    <string name="lang_tal">தமிழ்</string>
+    <string name="lang_uk">Українська</string>
+    <string name="lang_fr">Français</string>
+    <string name="lang_es">Español</string>
+    <string name="lang_tr">Türkçe</string>
+    <string name="lang_zh">中文</string>
+
+    <string name="help_title">Preparation Guide</string>
+    <string name="help_intro">Follow these steps to ensure maximum cleaning effectiveness:</string>
+    
+    <string name="help_sec_audio_title">1. Audio Connectivity</string>
+    <string name="help_sec_audio_p1">Disconnect all headphones (Wired or Bluetooth). Sound must play through the internal speakers.</string>
+    <string name="help_sec_audio_p2">Close other apps that are playing music or videos.</string>
+
+    <string name="help_sec_placement_title">2. Device Placement</string>
+    <string name="help_sec_placement_p1">Set volume to 100%. Lower volume reduces the physical vibration needed to move particles.</string>
+    <string name="help_sec_placement_p2">Lay the phone speaker-side down. Gravity helps moisture escape the mesh.</string>
+
+    <string name="help_sec_safety_title">3. Safety &amp; Stability</string>
+    <string name="help_sec_safety_p1">Do not use this service during a phone call.</string>
+    <string name="help_sec_safety_p2">Avoid moving or shaking the phone while the repair is running.</string>
+    <string name="help_duration_info">Total Duration: 60 Seconds</string>
+
+    <string name="mechanics_title">How it Works</string>
+    <string name="mechanics_intro">Speaker Cleaner uses specialized sound algorithms to physically repair audio quality.</string>
+    
+    <string name="mechanics_water_title">Liquid Ejection (Phase 1)</string>
+    <string name="mechanics_water_desc">Uses low-frequency sine waves (150Hz - 600Hz). These frequencies cause high "excursion" (movement) of the speaker cone, physically shaking water droplets off the hardware.</string>
+
+    <string name="mechanics_dust_title">Dust Displacement (Phase 2)</string>
+    <string name="mechanics_dust_desc">Uses rapid, accelerating "Square-Clipped" pulses. These act like a jackhammer, creating bursts of air pressure to dislodge dry dust and lint trapped in the speaker pores.</string>
+    
+    <string name="mechanics_notice">If sound is still muffled, wait 2 minutes and repeat the process.</string>
+
+    <string name="manual_help_title">Manual Mode Guide</string>
+    <string name="manual_help_intro">Use manual controls to target specific frequencies or test your speakers.</string>
+    <string name="manual_help_freq_title">Frequency Slider</string>
+    <string name="manual_help_freq_desc">Adjusts the pitch from 100Hz to 1000Hz. Use lower Hz (150-200) for heavy water droplets, and higher Hz for fine dust.</string>
+    <string name="manual_help_pulse_title">Pulse Mode</string>
+    <string name="manual_help_pulse_desc">Intermittently cuts the sound. This rapid "On/Off" creates shockwaves of air pressure that are more effective at pushing out stuck particles than continuous sound.</string>
+    <string name="manual_help_vibe_title">Vibration Sync</string>
+    <string name="manual_help_vibe_desc">Synchronizes the phone\'s vibration motor with the audio pulses for maximum physical agitation.</string>
+
+    <string name="attribution_music">The songs \'Legendary Paganini Caprice House\' and \'Nightlife in Hamburg Synth Pop\' are provided by White_Records, sourced from pixabay.com.</string>
+
+</resources>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Speaker Cleaner</string>
+    <string name="version_info">Sürüm 4</string>
+    <string name="developer">InfLps</string>
+
+    <string name="common_cancel">İptal</string>
+    <string name="common_dismiss">Kapat</string>
+    <string name="common_ok">Tamam</string>
+    <string name="common_yes">Evet</string>
+    <string name="common_stop">Durdur</string>
+    <string name="common_reset">Sıfırla</string>
+
+    <string name="home_subtext">Ses boğuk mu geliyor? Yüksek yoğunluklu sonik darbelerimiz, hoparlörde sıkışan suyu dışarı atabilir ve hoparlör ızgarasındaki tozu temizleyebilir.</string>
+    <string name="home_btn_start">TEMİZLİĞİ BAŞLAT</string>
+
+    <string name="cleaner_status_cleaning">Temizlik devam ediyor...</string>
+    <string name="cleaner_completion_msg">Temizlik işlemi tamamlandı!</string>
+    <string name="cleaner_warning_volume">En iyi sonuçlar için sesi MAKSİMUM seviyeye ayarlayın.</string>
+    <string name="cleaner_warning_position">Telefonu düz bir yüzeyde hoparlör kısmı aşağı bakacak şekilde yerleştirin.</string>
+
+    <string name="cleaner_mode_auto">Otomatik</string>
+    <string name="cleaner_mode_manual">Manuel</string>
+    <string name="cleaner_toggle_vibration">Titreşim</string>
+    <string name="cleaner_toggle_pulse">Darbe</string>
+    <string name="cleaner_control_frequency">Frekans (Hz)</string>
+
+    <string name="settings_opt_help">Hakkında</string>
+    <string name="settings_opt_volume">Sistem Sesi</string>
+    <string name="settings_opt_language">Dili Değiştir</string>
+    <string name="settings_curr_language">Türkçe</string>
+    <string name="settings_link_telegram_group">Hata bildir (Telegram)</string>
+    <string name="settings_link_telegram_channel">Telegram Kanalına Katıl</string>
+    <string name="settings_link_github">Kaynak Kodu Görüntüle (GitHub)</string>
+
+    <string name="lang_select">Dil Seç</string>
+    <string name="lang_en">English</string>
+    <string name="lang_ro">Română</string>
+    <string name="lang_ru">Русский</string>
+    <string name="lang_pt">Português</string>
+    <string name="lang_ptbr">Português (Brasil)</string>
+    <string name="lang_ind">Indonesia</string>
+    <string name="lang_hin">हिन्दी</string>
+    <string name="lang_tal">தமிழ்</string>
+    <string name="lang_uk">Українська</string>
+    <string name="lang_fr">Français</string>
+    <string name="lang_es">Español</string>
+    <string name="lang_tr">Türkçe</string>
+    <string name="lang_zh">中文</string>
+
+    <string name="help_title">Hazırlık Kılavuzu</string>
+    <string name="help_intro">Temizliğin en yüksek verimle yapılabilmesi için aşağıdaki adımları izleyin:</string>
+    
+    <string name="help_sec_audio_title">1. Ses Bağlantısı</string>
+    <string name="help_sec_audio_p1">Tüm kulaklıkları (kablolu veya Bluetooth) çıkarın. Ses, dahili hoparlörlerden çalmalıdır.</string>
+    <string name="help_sec_audio_p2">Müzik veya video oynatan diğer uygulamaları kapatın.</string>
+
+    <string name="help_sec_placement_title">2. Cihazın Konumu</string>
+    <string name="help_sec_placement_p1">Sesi %100\'e ayarlayın. Daha düşük ses seviyesi, parçacıkları hareket ettirmek için gereken fiziksel titreşimi azaltır.</string>
+    <string name="help_sec_placement_p2">Telefonu hoparlör tarafı aşağı bakacak şekilde yerleştirin. Yerçekimi, nemin ızgaradan çıkmasına yardımcı olur.</string>
+
+    <string name="help_sec_safety_title">3. Güvenlik ve Stabilite</string>
+    <string name="help_sec_safety_p1">Telefon görüşmesi sırasında bu hizmeti kullanmayın.</string>
+    <string name="help_sec_safety_p2">İşlem sırasında telefonu hareket ettirmeyin veya sallamayın.</string>
+    <string name="help_duration_info">Toplam Süre: 60 Saniye</string>
+
+    <string name="mechanics_title">Nasıl Çalışır</string>
+    <string name="mechanics_intro">Speaker Cleaner, ses kalitesini fiziksel olarak iyileştirmek için özel ses algoritmaları kullanır.</string>
+    
+    <string name="mechanics_water_title">Sıvı Atımı (Aşama 1)</string>
+    <string name="mechanics_water_desc">Düşük frekanslı sinüs dalgaları (150Hz - 600Hz) kullanır. Bu frekanslar, hoparlör konisinin yüksek \"ekskürsiyon\" (hareket) yapmasına neden olarak su damlacıklarını fiziksel olarak dışarı atar.</string>
+
+    <string name="mechanics_dust_title">Toz Giderme (Aşama 2)</string>
+    <string name="mechanics_dust_desc">Hızlı ve giderek artan \"Square-Clipped\" darbeler kullanır. Bunlar pnömatik çekiç gibi çalışarak, hoparlör gözeneklerinde sıkışmış kuru toz ve tüyleri çıkarmak için hava basıncı darbeleri oluşturur.</string>
+    
+    <string name="mechanics_notice">Ses hâlâ boğuksa, 2 dakika bekleyin ve işlemi tekrar edin.</string>
+
+    <string name="manual_help_title">Manuel Mod Kılavuzu</string>
+    <string name="manual_help_intro">Belirli frekansları hedeflemek veya hoparlörlerinizi test etmek için manuel kontrolleri kullanın.</string>
+    <string name="manual_help_freq_title">Frekans Kaydırıcısı</string>
+    <string name="manual_help_freq_desc">100Hz ile 1000Hz arasında perdeyi ayarlar. Ağır su damlacıkları için düşük Hz (150–200), ince toz için yüksek Hz kullanın.</string>
+    <string name="manual_help_pulse_title">Darbe Modu</string>
+    <string name="manual_help_pulse_desc">Sesi aralıklı olarak keser. Bu hızlı \"Açık/Kapalı\" yöntemi, sürekli sese kıyasla sıkışmış parçacıkları itmede daha etkili hava basıncı şokları oluşturur.</string>
+    <string name="manual_help_vibe_title">Titreşim Senkronizasyonu</string>
+    <string name="manual_help_vibe_desc">Maksimum fiziksel etki için telefonun titreşim motorunu ses darbeleriyle senkronize eder.</string>
+
+    <string name="attribution_music">\"Legendary Paganini Caprice House\" ve \"Nightlife in Hamburg Synth Pop\" parçaları White_Records tarafından sağlanmış olup pixabay.com kaynaklıdır.</string>
+
+</resources>

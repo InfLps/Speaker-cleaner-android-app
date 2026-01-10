@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Speaker Cleaner</string>
+    <string name="version_info">Versão 4</string>
+    <string name="developer">InfLps</string>
+
+    <string name="common_cancel">Cancelar</string>
+    <string name="common_dismiss">Fechar</string>
+    <string name="common_ok">OK</string>
+    <string name="common_yes">Sim</string>
+    <string name="common_stop">Parar</string>
+    <string name="common_reset">Redefinir</string>
+
+    <string name="home_subtext">Áudio abafado? Nossos pulsos sônicos de alta intensidade podem expelir a água presa e remover poeira da malha do alto-falante.</string>
+    <string name="home_btn_start">INICIAR LIMPEZA</string>
+
+    <string name="cleaner_status_cleaning">Limpeza em andamento...</string>
+    <string name="cleaner_completion_msg">Processo de limpeza concluído!</string>
+    <string name="cleaner_warning_volume">Defina o volume no MÁXIMO para melhores resultados.</string>
+    <string name="cleaner_warning_position">Coloque o celular virado para baixo sobre uma superfície plana.</string>
+
+    <string name="cleaner_mode_auto">Automático</string>
+    <string name="cleaner_mode_manual">Manual</string>
+    <string name="cleaner_toggle_vibration">Vibração</string>
+    <string name="cleaner_toggle_pulse">Pulso</string>
+    <string name="cleaner_control_frequency">Frequência (Hz)</string>
+
+    <string name="settings_opt_help">Sobre</string>
+    <string name="settings_opt_volume">Volume do Sistema</string>
+    <string name="settings_opt_language">Alterar Idioma</string>
+    <string name="settings_curr_language">Português (Brasil)</string>
+    <string name="settings_link_telegram_group">Reportar erros (Telegram)</string>
+    <string name="settings_link_telegram_channel">Entrar no Canal do Telegram</string>
+    <string name="settings_link_github">Ver Código-Fonte (GitHub)</string>
+
+    <string name="lang_select">Selecionar Idioma</string>
+    <string name="lang_en">English</string>
+    <string name="lang_ro">Română</string>
+    <string name="lang_ru">Русский</string>
+    <string name="lang_pt">Português</string>
+    <string name="lang_ptbr">Português (Brasil)</string>
+    <string name="lang_ind">Indonesia</string>
+    <string name="lang_hin">हिन्दी</string>
+    <string name="lang_tal">தமிழ்</string>
+    <string name="lang_uk">Українська</string>
+    <string name="lang_fr">Français</string>
+    <string name="lang_es">Español</string>
+    <string name="lang_tr">Türkçe</string>
+    <string name="lang_zh">中文</string>
+
+    <string name="help_title">Guia de Preparação</string>
+    <string name="help_intro">Siga estas etapas para garantir a máxima eficácia da limpeza:</string>
+    
+    <string name="help_sec_audio_title">1. Conectividade de Áudio</string>
+    <string name="help_sec_audio_p1">Desconecte todos os fones de ouvido (com fio ou Bluetooth). O som deve ser reproduzido pelos alto-falantes internos.</string>
+    <string name="help_sec_audio_p2">Feche outros aplicativos que estejam reproduzindo músicas ou vídeos.</string>
+
+    <string name="help_sec_placement_title">2. Posicionamento do Dispositivo</string>
+    <string name="help_sec_placement_p1">Defina o volume em 100%. Volumes mais baixos reduzem a vibração física necessária para mover as partículas.</string>
+    <string name="help_sec_placement_p2">Coloque o celular com o alto-falante virado para baixo. A gravidade ajuda a umidade a sair da malha.</string>
+
+    <string name="help_sec_safety_title">3. Segurança e Estabilidade</string>
+    <string name="help_sec_safety_p1">Não utilize este serviço durante uma chamada telefônica.</string>
+    <string name="help_sec_safety_p2">Evite mover ou sacudir o celular enquanto o processo estiver em execução.</string>
+    <string name="help_duration_info">Duração Total: 60 Segundos</string>
+
+    <string name="mechanics_title">Como Funciona</string>
+    <string name="mechanics_intro">O Speaker Cleaner utiliza algoritmos sonoros especializados para restaurar fisicamente a qualidade do áudio.</string>
+    
+    <string name="mechanics_water_title">Expulsão de Líquidos (Fase 1)</string>
+    <string name="mechanics_water_desc">Utiliza ondas senoidais de baixa frequência (150Hz - 600Hz). Essas frequências causam alta \"excursão\" (movimento) do cone do alto-falante, sacudindo fisicamente as gotas de água do hardware.</string>
+
+    <string name="mechanics_dust_title">Deslocamento de Poeira (Fase 2)</string>
+    <string name="mechanics_dust_desc">Utiliza pulsos rápidos e acelerados \"Square-Clipped\". Eles atuam como um martelo pneumático, criando rajadas de pressão de ar para desalojar poeira seca e fiapos presos nos poros do alto-falante.</string>
+    
+    <string name="mechanics_notice">Se o som ainda estiver abafado, aguarde 2 minutos e repita o processo.</string>
+
+    <string name="manual_help_title">Guia do Modo Manual</string>
+    <string name="manual_help_intro">Use os controles manuais para direcionar frequências específicas ou testar seus alto-falantes.</string>
+    <string name="manual_help_freq_title">Controle de Frequência</string>
+    <string name="manual_help_freq_desc">Ajusta o tom de 100Hz a 1000Hz. Use frequências mais baixas (150–200Hz) para gotas de água mais pesadas e frequências mais altas para poeira fina.</string>
+    <string name="manual_help_pulse_title">Modo Pulso</string>
+    <string name="manual_help_pulse_desc">Interrompe o som de forma intermitente. Esse rápido \"Ligar/Desligar\" cria ondas de choque de pressão de ar mais eficazes para expulsar partículas presas do que um som contínuo.</string>
+    <string name="manual_help_vibe_title">Sincronização de Vibração</string>
+    <string name="manual_help_vibe_desc">Sincroniza o motor de vibração do celular com os pulsos de áudio para máxima agitação física.</string>
+
+    <string name="attribution_music">As músicas \"Legendary Paganini Caprice House\" e \"Nightlife in Hamburg Synth Pop\" são fornecidas pela White_Records, obtidas em pixabay.com.</string>
+
+</resources>

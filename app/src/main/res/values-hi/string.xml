@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Speaker Cleaner</string>
+    <string name="version_info">संस्करण 4</string>
+    <string name="developer">InfLps</string>
+
+    <string name="common_cancel">रद्द करें</string>
+    <string name="common_dismiss">बंद करें</string>
+    <string name="common_ok">ठीक है</string>
+    <string name="common_yes">हाँ</string>
+    <string name="common_stop">रोकें</string>
+    <string name="common_reset">रीसेट करें</string>
+
+    <string name="home_subtext">आवाज़ दब गई है? हमारे उच्च-तीव्रता वाले सोनिक पल्स फंसे हुए पानी को बाहर निकाल सकते हैं और स्पीकर की जाली से धूल हटा सकते हैं।</string>
+    <string name="home_btn_start">सफाई शुरू करें</string>
+
+    <string name="cleaner_status_cleaning">सफाई जारी है...</string>
+    <string name="cleaner_completion_msg">सफाई प्रक्रिया पूरी हो गई!</string>
+    <string name="cleaner_warning_volume">बेहतर परिणामों के लिए वॉल्यूम को अधिकतम पर सेट करें।</string>
+    <string name="cleaner_warning_position">फोन को समतल सतह पर स्पीकर की ओर नीचे रखें।</string>
+
+    <string name="cleaner_mode_auto">स्वचालित</string>
+    <string name="cleaner_mode_manual">मैनुअल</string>
+    <string name="cleaner_toggle_vibration">कंपन</string>
+    <string name="cleaner_toggle_pulse">पल्स</string>
+    <string name="cleaner_control_frequency">आवृत्ति (Hz)</string>
+
+    <string name="settings_opt_help">जानकारी</string>
+    <string name="settings_opt_volume">सिस्टम वॉल्यूम</string>
+    <string name="settings_opt_language">भाषा बदलें</string>
+    <string name="settings_curr_language">हिंदी</string>
+    <string name="settings_link_telegram_group">बग रिपोर्ट करें (Telegram)</string>
+    <string name="settings_link_telegram_channel">Telegram चैनल से जुड़ें</string>
+    <string name="settings_link_github">सोर्स कोड देखें (GitHub)</string>
+
+    <string name="lang_select">भाषा चुनें</string>     
+    <string name="lang_en">English</string>
+    <string name="lang_ro">Română</string>
+    <string name="lang_ru">Русский</string>
+    <string name="lang_pt">Português</string>
+    <string name="lang_ptbr">Português (Brasil)</string>
+    <string name="lang_ind">Indonesia</string>
+    <string name="lang_hin">हिन्दी</string>
+    <string name="lang_tal">தமிழ்</string>
+    <string name="lang_uk">Українська</string>
+    <string name="lang_fr">Français</string>
+    <string name="lang_es">Español</string>
+    <string name="lang_tr">Türkçe</string>
+    <string name="lang_zh">中文</string>
+
+    <string name="help_title">तैयारी मार्गदर्शिका</string>
+    <string name="help_intro">सफाई की अधिकतम प्रभावशीलता सुनिश्चित करने के लिए इन चरणों का पालन करें:</string>
+    
+    <string name="help_sec_audio_title">1. ऑडियो कनेक्टिविटी</string>
+    <string name="help_sec_audio_p1">सभी हेडफ़ोन (वायर्ड या ब्लूटूथ) डिस्कनेक्ट करें। ध्वनि आंतरिक स्पीकर से आनी चाहिए।</string>
+    <string name="help_sec_audio_p2">अन्य ऐप्स बंद करें जो संगीत या वीडियो चला रहे हों।</string>
+
+    <string name="help_sec_placement_title">2. डिवाइस की स्थिति</string>
+    <string name="help_sec_placement_p1">वॉल्यूम को 100% पर सेट करें। कम वॉल्यूम से कणों को हिलाने के लिए आवश्यक कंपन कम हो जाता है।</string>
+    <string name="help_sec_placement_p2">फोन को स्पीकर साइड नीचे रखें। गुरुत्वाकर्षण नमी को जाली से बाहर निकलने में मदद करता है।</string>
+
+    <string name="help_sec_safety_title">3. सुरक्षा और स्थिरता</string>
+    <string name="help_sec_safety_p1">फोन कॉल के दौरान इस सेवा का उपयोग न करें।</string>
+    <string name="help_sec_safety_p2">प्रक्रिया चलने के दौरान फोन को हिलाने या झटकने से बचें।</string>
+    <string name="help_duration_info">कुल अवधि: 60 सेकंड</string>
+
+    <string name="mechanics_title">यह कैसे काम करता है</string>
+    <string name="mechanics_intro">Speaker Cleaner ऑडियो गुणवत्ता को भौतिक रूप से सुधारने के लिए विशेष ध्वनि एल्गोरिदम का उपयोग करता है।</string>
+    
+    <string name="mechanics_water_title">तरल निष्कासन (चरण 1)</string>
+    <string name="mechanics_water_desc">कम आवृत्ति वाली साइन वेव्स (150Hz - 600Hz) का उपयोग करता है। ये आवृत्तियाँ स्पीकर कोन में अधिक \"एक्सकर्शन\" (गति) पैदा करती हैं, जिससे पानी की बूंदें भौतिक रूप से बाहर निकल जाती हैं।</string>
+
+    <string name="mechanics_dust_title">धूल हटाना (चरण 2)</string>
+    <string name="mechanics_dust_desc">तेज़ और बढ़ती हुई \"Square-Clipped\" पल्स का उपयोग करता है। ये जैकहैमर की तरह काम करती हैं और हवा के दबाव के झटके पैदा कर स्पीकर की जाली में फँसी सूखी धूल और रेशों को बाहर निकालती हैं।</string>
+    
+    <string name="mechanics_notice">यदि आवाज़ अभी भी दब गई हो, तो 2 मिनट प्रतीक्षा करें और प्रक्रिया दोहराएँ।</string>
+
+    <string name="manual_help_title">मैनुअल मोड मार्गदर्शिका</string>
+    <string name="manual_help_intro">विशिष्ट आवृत्तियों को लक्षित करने या अपने स्पीकर की जाँच के लिए मैनुअल नियंत्रणों का उपयोग करें।</string>
+    <string name="manual_help_freq_title">आवृत्ति स्लाइडर</string>
+    <string name="manual_help_freq_desc">100Hz से 1000Hz तक पिच समायोजित करता है। भारी पानी की बूंदों के लिए कम Hz (150–200) और बारीक धूल के लिए अधिक Hz का उपयोग करें।</string>
+    <string name="manual_help_pulse_title">पल्स मोड</string>
+    <string name="manual_help_pulse_desc">ध्वनि को बीच-बीच में बंद करता है। यह तेज़ \"चालू/बंद\" हवा के दबाव की शॉकवेव बनाता है, जो लगातार ध्वनि की तुलना में फँसे कणों को बाहर निकालने में अधिक प्रभावी होता है।</string>
+    <string name="manual_help_vibe_title">कंपन सिंक</string>
+    <string name="manual_help_vibe_desc">अधिकतम भौतिक कंपन के लिए फोन के वाइब्रेशन मोटर को ऑडियो पल्स के साथ सिंक्रनाइज़ करता है।</string>
+
+    <string name="attribution_music">\"Legendary Paganini Caprice House\" और \"Nightlife in Hamburg Synth Pop\" गीत White_Records द्वारा प्रदान किए गए हैं और pixabay.com से लिए गए हैं।</string>
+
+</resources>

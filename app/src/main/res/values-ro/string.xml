@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Speaker Cleaner</string>
+    <string name="version_info">Versiunea 4</string>
+    <string name="developer">InfLps</string>
+
+    <string name="common_cancel">Anulare</string>
+    <string name="common_dismiss">Închide</string>
+    <string name="common_ok">OK</string>
+    <string name="common_yes">Da</string>
+    <string name="common_stop">Stop</string>
+    <string name="common_reset">Resetare</string>
+
+    <string name="home_subtext">Sunet înfundat? Impulsele noastre sonice de înaltă intensitate pot elimina apa blocată și pot disloca praful din sita difuzorului.</string>
+    <string name="home_btn_start">PORNEȘTE CURĂȚAREA</string>
+
+    <string name="cleaner_status_cleaning">Curățare în curs...</string>
+    <string name="cleaner_completion_msg">Procesul de curățare a fost finalizat!</string>
+    <string name="cleaner_warning_volume">Setați volumul la MAXIMUM pentru cele mai bune rezultate.</string>
+    <string name="cleaner_warning_position">Așezați telefonul cu fața în jos pe o suprafață plană.</string>
+
+    <string name="cleaner_mode_auto">Auto</string>
+    <string name="cleaner_mode_manual">Manual</string>
+    <string name="cleaner_toggle_vibration">Vibrație</string>
+    <string name="cleaner_toggle_pulse">Puls</string>
+    <string name="cleaner_control_frequency">Frecvență (Hz)</string>
+
+    <string name="settings_opt_help">Despre</string>
+    <string name="settings_opt_volume">Volum Sistem</string>
+    <string name="settings_opt_language">Schimbă Limba</string>
+    <string name="settings_curr_language">Română</string>
+    <string name="settings_link_telegram_group">Raportează erori (Telegram)</string>
+    <string name="settings_link_telegram_channel">Alătură-te canalului de Telegram</string>
+    <string name="settings_link_github">Vezi Sursa (GitHub)</string>
+
+    <string name="lang_select">Selectează Limba</string>
+    <string name="lang_en">English</string>
+    <string name="lang_ro">Română</string>
+    <string name="lang_ru">Русский</string>
+    <string name="lang_pt">Português</string>
+    <string name="lang_ptbr">Português (Brasil)</string>
+    <string name="lang_ind">Indonesia</string>
+    <string name="lang_hin">हिन्दी</string>
+    <string name="lang_tal">தமிழ்</string>
+    <string name="lang_uk">Українська</string>
+    <string name="lang_fr">Français</string>
+    <string name="lang_es">Español</string>
+    <string name="lang_tr">Türkçe</string>
+    <string name="lang_zh">中文</string>
+
+    <string name="help_title">Ghid de Pregătire</string>
+    <string name="help_intro">Urmați acești pași pentru a asigura o eficiență maximă de curățare:</string>
+    
+    <string name="help_sec_audio_title">1. Conectivitate Audio</string>
+    <string name="help_sec_audio_p1">Deconectați toate căștile (cu fir sau Bluetooth). Sunetul trebuie să fie redat prin difuzoarele interne.</string>
+    <string name="help_sec_audio_p2">Închideți alte aplicații care redau muzică sau videoclipuri.</string>
+
+    <string name="help_sec_placement_title">2. Plasarea Dispozitivului</string>
+    <string name="help_sec_placement_p1">Setați volumul la 100%. Volumul redus scade vibrația fizică necesară pentru a mișca particulele.</string>
+    <string name="help_sec_placement_p2">Așezați telefonul cu difuzorul în jos. Gravitația ajută umezeala să iasă din sită.</string>
+
+    <string name="help_sec_safety_title">3. Siguranță și Stabilitate</string>
+    <string name="help_sec_safety_p1">Nu folosiți acest serviciu în timpul unui apel telefonic.</string>
+    <string name="help_sec_safety_p2">Evitați mișcarea sau scuturarea telefonului în timp ce reparația este în curs.</string>
+    <string name="help_duration_info">Durată Totală: 60 Secunde</string>
+
+    <string name="mechanics_title">Cum Funcționează</string>
+    <string name="mechanics_intro">Speaker Cleaner folosește algoritmi de sunet specializați pentru a repara fizic calitatea audio.</string>
+    
+    <string name="mechanics_water_title">Eliminarea Lichidului (Faza 1)</string>
+    <string name="mechanics_water_desc">Folosește unde sinusoidale de joasă frecvență (150Hz - 600Hz). Aceste frecvențe provoacă o „excursie” (mișcare) ridicată a conului difuzorului, scuturând fizic picăturile de apă de pe componente.</string>
+
+    <string name="mechanics_dust_title">Dislocarea Prafului (Faza 2)</string>
+    <string name="mechanics_dust_desc">Folosește impulsuri rapide și accelerate de tip „Square-Clipped”. Acestea acționează ca un ciocan pneumatic, creând rafale de presiune a aerului pentru a disloca praful uscat și scamele blocate în porii difuzorului.</string>
+    
+    <string name="mechanics_notice">Dacă sunetul este încă înfundat, așteptați 2 minute și repetați procesul.</string>
+
+    <string name="manual_help_title">Ghid Mod Manual</string>
+    <string name="manual_help_intro">Folosiți comenzile manuale pentru a viza frecvențe specifice sau pentru a vă testa difuzoarele.</string>
+    <string name="manual_help_freq_title">Glisor Frecvență</string>
+    <string name="manual_help_freq_desc">Reglează tonalitatea de la 100Hz la 1000Hz. Folosiți frecvențe mai joase (150-200 Hz) pentru picături de apă și frecvențe mai mari pentru praf fin.</string>
+    <string name="manual_help_pulse_title">Mod Puls</string>
+    <string name="manual_help_pulse_desc">Întrerupe intermitent sunetul. Această pornire/oprire rapidă creează unde de șoc ale presiunii aerului, care sunt mai eficiente în eliminarea particulelor blocate decât sunetul continuu.</string>
+    <string name="manual_help_vibe_title">Sincronizare Vibrații</string>
+    <string name="manual_help_vibe_desc">Sincronizează motorul de vibrații al telefonului cu impulsurile audio pentru o agitație fizică maximă.</string>
+
+    <string name="attribution_music">Melodiile „Legendary Paganini Caprice House” și „Nightlife in Hamburg Synth Pop” sunt oferite de White_Records, preluate de pe pixabay.com.</string>
+
+</resources>
