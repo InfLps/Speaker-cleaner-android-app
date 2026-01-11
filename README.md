@@ -18,8 +18,8 @@ Speaker Cleaner is a specialized Android application designed to rescue your pho
 ## 🚀 How to Use
 1.  **Turn Volume to Max:** For best results, ensure your media volume is at 100%.
 2.  **Positioning:** Lay the phone with the speakers facing **downward**.
-3.  **Start Cleaning:** Choose "Auto" or "Manual" and let the app run its cycle.
-4.  **Test:** Use the built-in "Test Sound" to verify the audio clarity.
+3.  **Start Cleaning:** Select "Auto" mode, and let the app run the cleaning cycle, or you can use "Manual" mode for doing it manually.
+4.  **Test:** Use the built-in test button in the bottom-right corner (play icon) to check sound clarity.
 
 ## 📦 Installation
 1. Clone the repository:
