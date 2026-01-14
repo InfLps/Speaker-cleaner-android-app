@@ -9,6 +9,13 @@ Speaker Cleaner is a specialized Android application designed to rescue your pho
 * **Custom UI Widgets:** Features a sleek gauge view, frequency wave visualizers, and a 3D-styled interface.
 * **Multilingual Support:** Translated into 12+ languages including Spanish, Hindi, Russian, Chinese, and more.
 
+## 📱 Demo
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b6b37ae4-d9aa-46fe-96fa-d74897481b84" width="30%" />
+  <img src="https://github.com/user-attachments/assets/3eec0de9-9aac-4ab9-a597-d044854cc16d" width="30%" />
+  <img src="https://github.com/user-attachments/assets/44535e3b-f95a-41a1-a060-4cdc725ce86c" width="30%" />
+</p>
+
 ## 🛠️ Tech Stack
 * **Language:** Java
 * **Environment:** Android Studio
