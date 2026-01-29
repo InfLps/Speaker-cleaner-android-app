@@ -3,7 +3,7 @@
 Speaker Cleaner is a specialized Android application designed to rescue your phone's audio quality. If your device has been exposed to water or dust, this app uses specific sound frequencies and vibration patterns to "shake" particles and liquid out of the speaker grills.
 
 > [!NOTE]  
-> This is a functional prototype of a speaker cleaner; its effectiveness is not guaranteed to be 100%.
+> This feature is currently a functional prototype. While it is designed to help clear water and dust from speaker grills, results may vary and effectiveness cannot be guaranteed in all cases.
 
 ## ✨ Features
 * **Auto Cleaning Mode:** A pre-set frequency cycle that automatically ejects water in seconds.
